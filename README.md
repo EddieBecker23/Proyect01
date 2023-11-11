@@ -1,2 +1,3 @@
 # Proyect01
-Personal
+Proyectos de caracter escolar como Tareas, Examenes Etc..
+
